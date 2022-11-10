@@ -1,0 +1,12 @@
+#title {
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid black;
+    padding-bottom: 25px;
+    font-size: 2em;
+}
+
+.post {
+    text-align: center;
+
+}
